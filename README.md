@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <h4 align="center">:adult:I'm a 19yo developer from Argentina, Henry Bootcamp (full stack web dev +800hr). </h4>
 
-- :seedling: I’m currently learning **React Native :mobile_phone:**
+- :seedling: I’m currently learning **React Native 📱**
 
 - :eyes: Looking for new challenges where grown day by day
 
