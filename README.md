@@ -1,5 +1,6 @@
 <h1 align="center">Hi :wave:, I'm Liam Marega <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)</h3>
+<h3>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+</h3>
 <h4 align="center">:adult:I'm a 19yo developer from Argentina, Henry Bootcamp (full stack web dev +800hr). </h4>
 
 - :seedling: I’m currently learning **React Native 📱**
