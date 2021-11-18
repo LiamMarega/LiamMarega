@@ -19,7 +19,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p>• Javascript • TypeScript • Git • React.js • Redux • HTML • CSS • NodeJs • Express • Postman • PostgreSQL • Sequelize • Webpack • Babel • </p>
+<p> • Javascript • TypeScript • Git • React.js • Redux • HTML • CSS • NodeJs • Express • Postman • PostgreSQL • Sequelize • Webpack • Babel • </p>
 
 <div align="center"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
