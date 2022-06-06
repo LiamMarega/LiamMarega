@@ -41,9 +41,7 @@
   
 </div>
 
-
 <p align= "center">
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LiamMarega)](https://github.com/anuraghazra/github-readme-stats) 
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=LiamMarega&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamMarega&theme=react&layout=compact" />
 </p>
