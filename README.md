@@ -40,9 +40,9 @@
   <img />
   
 </div>
-
-<p align= "center">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LiamMarega=anuraghazra&show_icons=true&theme=bear)
+<p align= "center">
+
 
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamMarega&theme=react&layout=compact" />
 </p>
