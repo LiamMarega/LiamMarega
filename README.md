@@ -40,7 +40,8 @@
   <img />
   
 </div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LiamMarega=anuraghazra&show_icons=true&theme=bear)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamMarega)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align= "center">
 
 
