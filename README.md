@@ -1,4 +1,4 @@
-  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" />
+
 <h1 align="center">Hi :wave:, I'm Liam Marega <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <h3 align="center"> Full Stack Developer </h3>
