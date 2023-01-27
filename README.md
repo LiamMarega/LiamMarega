@@ -5,20 +5,11 @@
 <h4 align="center">:adult:I'm a 19yo developer from Argentina, Henry Bootcamp (full stack web dev +900hr). </h4>
 
 - :seedling: I’m currently learning **React Native 📱**
-
-
-    
-          
-            
-    
-
-          
-    
-    
   
 - :eyes: Looking for new challenges where grown day by day
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+    
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liam-marega/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liam_marega/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liammarega85@gmail.com)
