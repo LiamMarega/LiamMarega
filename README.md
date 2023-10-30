@@ -4,7 +4,6 @@
 
 <h4 align="center">:adult:I'm a developer from Argentina. </h4>
 
-- :seedling: I’m currently learning **React Native 📱**
   
 - :eyes: Looking for new challenges where grown day by day
 <h3 align="center">Connect with me:</h3>
