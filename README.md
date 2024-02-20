@@ -1,11 +1,13 @@
 <h1 align="center">Hi :wave:, I'm Liam Marega <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<h3 align="center"> Full Stack Developer </h3>
+<h3> Front-end Developer</h3>
 
-<h4 align="center">:adult:I'm a developer from Argentina. </h4>
+:adult: Developer based in Argentina.
+Technology lover, willing to grow and challenge myself in every project.
 
-  
-- :eyes: Looking for new challenges where grown day by day
+:eyes: Looking for new challenges where grown day by day 
+
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
     
