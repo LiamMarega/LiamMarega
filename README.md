@@ -1,6 +1,6 @@
 <h1 align="center">Hi :wave:, I'm Liam Marega <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-frontend developer from Argentina. With over 2 years of experience, I specialize in hybrid mobile applications and web development. My goal is to create engaging and functional digital experiences.
+frontend developer from Argentina. I specialize in hybrid mobile applications and web development. My goal is to create engaging and functional digital experiences.
 
 ## 🚀 Technologies
 
